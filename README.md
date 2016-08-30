@@ -3,4 +3,4 @@ Projector Killer is an Android Application coded with java to turn off Epson Pro
 
 # License
 This software is open source but
-Copyright 2016 © Romain ('Elegary'). All right reserved.
+Copyright 2016 © Romain ('Elegary'). All rights reserved.
