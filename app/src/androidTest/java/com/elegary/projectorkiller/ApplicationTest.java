@@ -1,4 +1,4 @@
-package elegary.projectorkiller.com.projectorkiller;
+package com.elegary.projectorkiller;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

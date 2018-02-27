@@ -4,7 +4,7 @@
                       android:layout_width="match_parent"
                       android:layout_height="match_parent"
                       android:weightSum="1"
-                      android:background="@drawable/walppaper">
+                      android:background="@drawable/walppaper_jpg">
 
     <TextClock
         android:layout_width="wrap_content"
@@ -24,8 +24,19 @@
         android:textColor="#FFFFFF"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="90dp"/>
+        android:layout_marginBottom="90dp"
+        android:id="@+id/textView" />
 
-
-
+    <TextView
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:text="Message : Julien \n Tu viens ce soir ?"
+        android:background="#A6837D7D"
+        android:padding="6dp"
+        android:textSize="15dp"
+        android:textColor="#FFFFFF"
+        android:id="@+id/textView1"
+        android:layout_marginTop="55dp"
+        android:layout_below="@+id/textClock"
+        android:layout_centerHorizontal="true" />
 </RelativeLayout>

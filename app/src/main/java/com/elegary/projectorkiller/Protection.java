@@ -1,9 +1,7 @@
-package elegary.projectorkiller.com.projectorkiller;
-
+package com.elegary.projectorkiller;
 import android.app.Activity;
 import android.os.Bundle;
 import android.widget.Toast;
-import android.content.Intent;
 
 public class Protection extends Activity{
     @Override
